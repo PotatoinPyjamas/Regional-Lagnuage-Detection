@@ -1,0 +1,26 @@
+.form {
+	width: 70%;
+	height: 60%;
+	background: #ffffff;
+	backdrop-filter: blur(4px);
+	border-radius: 10px;
+}
+.head {
+	text-align: center;
+}
+
+.formi {
+	width: 80%;
+	height: 60%;
+	margin: auto;
+	display: flex;
+}
+.left,
+.right {
+	width: 50%;
+	height: 100%;
+}
+.right {
+	justify-content: space-between;
+	align-items: center;
+}

@@ -1,0 +1,38 @@
+.inputContainer {
+	display: flex;
+	border: 1px solid #949f94;
+	box-sizing: border-box;
+	border-radius: 5px;
+	width: 75%;
+	padding: 2%;
+	margin: 10%;
+}
+
+.input {
+	border: none;
+	width: 70%;
+	border-radius: 5px;
+	outline: none;
+}
+.input_img {
+	width: 10%;
+}
+
+::placeholder {
+	/* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: #929e92;
+	opacity: 1; /* Firefox */
+	font-size: 80%;
+}
+
+:-ms-input-placeholder {
+	/* Internet Explorer 10-11 */
+	color: #929e92;
+	font-size: 80%;
+}
+
+::-ms-input-placeholder {
+	/* Microsoft Edge */
+	color: #929e92;
+	font-size: 80%;
+}

@@ -1,0 +1,15 @@
+.msg {
+	width: 70%;
+	height: 10%;
+	background: #ffffff;
+	backdrop-filter: blur(4px);
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1%;
+}
+.txt {
+	text-align: center;
+	font-size: 70%;
+}

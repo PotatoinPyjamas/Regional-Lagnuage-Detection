@@ -43,11 +43,11 @@ function App() {
 			>
 				<ReactMic
 					record={rec}
-					className='sound-wave'
+					className={`sound-wave ${rec ? '' : 'ded'}`}
 					onStop={onStop}
 					onData={onData}
-					strokeColor='#000000'
-					backgroundColor='#FF4081'
+					strokeColor='#ffffff'
+					backgroundColor='#000000'
 				/>
 				<img
 					src={img}

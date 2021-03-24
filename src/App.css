@@ -18,4 +18,10 @@
 }
 .sound-wave {
 	width: 80%;
+	opacity: 1;
+	transition: all 1s;
+}
+.ded {
+	opacity: 0;
+	transition: all 1s;
 }

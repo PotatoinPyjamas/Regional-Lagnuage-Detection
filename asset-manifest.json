@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/Regional-Lagnuage-Detection/static/css/main.ada4a0d7.chunk.css",
-    "main.js": "/Regional-Lagnuage-Detection/static/js/main.5f785df0.chunk.js",
-    "main.js.map": "/Regional-Lagnuage-Detection/static/js/main.5f785df0.chunk.js.map",
+    "main.css": "/Regional-Lagnuage-Detection/static/css/main.3c82f2b9.chunk.css",
+    "main.js": "/Regional-Lagnuage-Detection/static/js/main.91d61f7a.chunk.js",
+    "main.js.map": "/Regional-Lagnuage-Detection/static/js/main.91d61f7a.chunk.js.map",
     "runtime-main.js": "/Regional-Lagnuage-Detection/static/js/runtime-main.8aeccf45.js",
     "runtime-main.js.map": "/Regional-Lagnuage-Detection/static/js/runtime-main.8aeccf45.js.map",
-    "static/js/2.986d0d7e.chunk.js": "/Regional-Lagnuage-Detection/static/js/2.986d0d7e.chunk.js",
-    "static/js/2.986d0d7e.chunk.js.map": "/Regional-Lagnuage-Detection/static/js/2.986d0d7e.chunk.js.map",
+    "static/js/2.47b599bf.chunk.js": "/Regional-Lagnuage-Detection/static/js/2.47b599bf.chunk.js",
+    "static/js/2.47b599bf.chunk.js.map": "/Regional-Lagnuage-Detection/static/js/2.47b599bf.chunk.js.map",
     "index.html": "/Regional-Lagnuage-Detection/index.html",
-    "static/css/main.ada4a0d7.chunk.css.map": "/Regional-Lagnuage-Detection/static/css/main.ada4a0d7.chunk.css.map",
-    "static/js/2.986d0d7e.chunk.js.LICENSE.txt": "/Regional-Lagnuage-Detection/static/js/2.986d0d7e.chunk.js.LICENSE.txt",
+    "static/css/main.3c82f2b9.chunk.css.map": "/Regional-Lagnuage-Detection/static/css/main.3c82f2b9.chunk.css.map",
+    "static/js/2.47b599bf.chunk.js.LICENSE.txt": "/Regional-Lagnuage-Detection/static/js/2.47b599bf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Regional-Lagnuage-Detection/static/media/Frame 4.7aae2567.png",
     "static/media/Frame 6.43262842.png": "/Regional-Lagnuage-Detection/static/media/Frame 6.43262842.png",
-    "static/media/Group 2.8bc20069.svg": "/Regional-Lagnuage-Detection/static/media/Group 2.8bc20069.svg",
-    "static/media/aa.92a83586.svg": "/Regional-Lagnuage-Detection/static/media/aa.92a83586.svg",
-    "static/media/image 10.ee896826.svg": "/Regional-Lagnuage-Detection/static/media/image 10.ee896826.svg",
-    "static/media/image 11.8cf530a3.svg": "/Regional-Lagnuage-Detection/static/media/image 11.8cf530a3.svg",
-    "static/media/image 16.669380a9.svg": "/Regional-Lagnuage-Detection/static/media/image 16.669380a9.svg",
-    "static/media/image 5.076d9cd2.svg": "/Regional-Lagnuage-Detection/static/media/image 5.076d9cd2.svg",
+    "static/media/Group 2.e4cee71b.svg": "/Regional-Lagnuage-Detection/static/media/Group 2.e4cee71b.svg",
+    "static/media/aa.1ab1e26b.svg": "/Regional-Lagnuage-Detection/static/media/aa.1ab1e26b.svg",
+    "static/media/er.88a95bba.png": "/Regional-Lagnuage-Detection/static/media/er.88a95bba.png",
+    "static/media/image 10.91221061.svg": "/Regional-Lagnuage-Detection/static/media/image 10.91221061.svg",
+    "static/media/image 11.5503bbdf.svg": "/Regional-Lagnuage-Detection/static/media/image 11.5503bbdf.svg",
+    "static/media/image 16.8f407c2f.svg": "/Regional-Lagnuage-Detection/static/media/image 16.8f407c2f.svg",
+    "static/media/image 5.9142220f.svg": "/Regional-Lagnuage-Detection/static/media/image 5.9142220f.svg",
     "static/media/submit.56d2c993.svg": "/Regional-Lagnuage-Detection/static/media/submit.56d2c993.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8aeccf45.js",
-    "static/js/2.986d0d7e.chunk.js",
-    "static/css/main.ada4a0d7.chunk.css",
-    "static/js/main.5f785df0.chunk.js"
+    "static/js/2.47b599bf.chunk.js",
+    "static/css/main.3c82f2b9.chunk.css",
+    "static/js/main.91d61f7a.chunk.js"
   ]
 }
